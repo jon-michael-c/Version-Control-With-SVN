@@ -27,3 +27,13 @@ Naviate to the trunk of the repo and you should see your contents from the serve
 `svn add` adds a file to be commited. Use `svn commit -m "MESSAGE"` to commit.
 
 ![Screenshot from 2021-07-21 23-50-02](https://user-images.githubusercontent.com/53241212/126587763-600380b5-f634-4531-808c-c14c6f40d165.png)
+
+Use `svn checkout` to put your changes to the server.
+
+![Screenshot from 2021-07-21 23-43-48](https://user-images.githubusercontent.com/53241212/126588888-98dcac8e-7b1a-4cff-9f67-3339eaff1751.png)
+
+If done sucessfully, you will see the changes on the sever.
+
+Server Terminal:
+
+![Screenshot from 2021-07-22 00-11-22](https://user-images.githubusercontent.com/53241212/126589012-1342a5b2-e3ad-4745-ae10-52fea95fb680.png)
