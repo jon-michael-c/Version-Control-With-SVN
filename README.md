@@ -10,8 +10,13 @@ Server Terminal:
 
 ![Screenshot from 2021-07-21 23-03-22](https://user-images.githubusercontent.com/53241212/126584527-68f872c2-164c-4df8-bc06-f45b552006cb.png)
 
-You should see these contents in the directory if completed sucessfully
+You should see these contents in the directory if completed sucessfully.
 
 ![Screenshot from 2021-07-21 23-05-42](https://user-images.githubusercontent.com/53241212/126584673-1281165f-b15e-4f32-a1e5-883250c26bde.png)
 
-Now 
+Now you can make another copy of the repository on a local machine. Use `svn checkout SERVER_ADDRESS` to pull the contents from the server.
+\n
+
+Local Machine:
+![Screenshot from 2021-07-21 23-43-48](https://user-images.githubusercontent.com/53241212/126587354-50d3087e-ac5d-4910-8ae6-166af241e465.png)
+
