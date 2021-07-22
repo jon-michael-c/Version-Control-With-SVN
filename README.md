@@ -18,5 +18,10 @@ Now you can make another copy of the repository on a local machine. Use `svn che
 \n
 
 Local Machine:
+
 ![Screenshot from 2021-07-21 23-43-48](https://user-images.githubusercontent.com/53241212/126587354-50d3087e-ac5d-4910-8ae6-166af241e465.png)
 
+Naviate to the trunk of the repo and you should see your contents from the server. You can start making changes and commits now.
+`svn add` adds a file to be commited. Use `svn commit -m "MESSAGE"` to commit.
+
+![Screenshot from 2021-07-21 23-50-02](https://user-images.githubusercontent.com/53241212/126587763-600380b5-f634-4531-808c-c14c6f40d165.png)
