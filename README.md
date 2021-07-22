@@ -37,3 +37,13 @@ If done sucessfully, you will see the changes on the sever.
 Server Terminal:
 
 ![Screenshot from 2021-07-22 00-11-22](https://user-images.githubusercontent.com/53241212/126589012-1342a5b2-e3ad-4745-ae10-52fea95fb680.png)
+
+# Comparison of Git and SVN commands
+|Function|Git|SVN|
+|:---|:---|---|
+|  Documentation |https://git-scm.com/doc| https://svnbook.red-bean.com/
+| Create new repository | git init | svnadmin create |
+| Copy files to lcoal | git clone | svnadmin checkout|
+| Commit changes | git commit | svn commit |
+| Add a new file | git add | svn add | 
+| Compare changes | git diff | svn diff |
